@@ -69,7 +69,7 @@
 * Why are these technologies appropriate for your solution?
 	This will require some investment on their part to integrate the option to purchase crypocurrencies into their website and app. Perhaps they can follow Square as a template for doing that.
 
-Sources
+## Sources
 
 https://www.forbes.com/sites/allbusiness/2019/10/12/fintech-startup-companies-key-challenges/?sh=10ebe1f3e45b
 
