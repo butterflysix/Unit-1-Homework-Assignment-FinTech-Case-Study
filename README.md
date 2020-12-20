@@ -68,3 +68,29 @@
 
 * Why are these technologies appropriate for your solution?
 	This will require some investment on their part to integrate the option to purchase crypocurrencies into their website and app. Perhaps they can follow Square as a template for doing that.
+
+Sources
+
+https://www.forbes.com/sites/allbusiness/2019/10/12/fintech-startup-companies-key-challenges/?sh=10ebe1f3e45b
+
+https://www.lorman.com/resources/7-top-ways-for-banks-to-improve-customer-s-digital-banking-experience-16732
+
+https://www.ally.com/about/investor/
+
+https://en.wikipedia.org/wiki/Ally_Financial
+
+https://www.reuters.com/article/us-allyfinancial-ipo/ally-financial-ipo-priced-at-25-per-share-underwriter-idUKBREA381YQ20140409
+
+https://www.ally.com/do-it-right/banking/how-to-open-a-bank-account-online/
+
+https://www.businessinsider.com/innovative-banking
+
+https://www.thebalance.com/best-online-banks-4165693
+
+https://www.finextra.com/blogposting/15949/digital-banking-engagement-where-are-the-metrics
+
+https://media.ally.com/2019-09-03-Ally-Bank-Surpasses-100-Billion-in-Retail-Deposits-in-Just-10-Years
+
+https://www.forbes.com/advisor/banking/best-online-banks/
+
+https://media.ally.com/2019-09-03-Ally-Bank-Surpasses-100-Billion-in-Retail-Deposits-in-Just-10-Years
